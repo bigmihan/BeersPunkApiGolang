@@ -1,5 +1,7 @@
 # BeersPunkApiGolang
 
+git clone -u github.com/bigmihan/BeersPunkApiGolang
+
 	arrayBeersRecipes, err := Beer.GetBeers(70, 100, 4)
 
 	if err != nil {

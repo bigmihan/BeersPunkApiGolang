@@ -1,6 +1,6 @@
 # BeersPunkApiGolang
 
-git clone -u github.com/bigmihan/BeersPunkApiGolang
+git clone https://github.com/bigmihan/BeersPunkApiGolang
 
 	arrayBeersRecipes, err := Beer.GetBeers(70, 100, 4)
 
